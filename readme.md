@@ -28,7 +28,11 @@ db.password=
 
 # Hibernate properties
 entitymanager.packages.to.scan=web
+
 hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
+
 hibernate.show_sql=true
+
 hibernate.hbm2ddl.auto=update
+
 hibernate.format_sql=true
