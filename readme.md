@@ -16,10 +16,14 @@
 1. в папке main сохдать папку resources
 2. в папке resoursec создать файл app.properties
 3. в properties указать следующие настройки:
-   # MySQL properties
+   
+# MySQL properties
 db.driver=com.mysql.cj.jdbc.Driver
+
 db.url=jdbc:mysql://localhost:3306/users
+
 db.username=
+
 db.password=
 
 # Hibernate properties
